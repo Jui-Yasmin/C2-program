@@ -3,7 +3,7 @@
 
 int main() {
   bool isHamburgerTasty = true;
-  bool isPizzaTasty = true;
+  bool isPizzaTasty = false;
   printf("%d", isHamburgerTasty == isPizzaTasty);
 
   return 0;
