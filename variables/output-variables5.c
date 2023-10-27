@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 int main() {
-  int x = 5;
-  int y = 6;
-  int sum = x + y;
+  int x = 333333333333333;
+  int y = 10006;
+  int sum = x * y;
   printf("%d", sum);
   return 0;
 }

@@ -2,10 +2,10 @@
 
 int main() {
   // Create variables
-  int myNum = 15;              // Integer (whole number)
+  int myNum = 19;              // Integer (whole number)
   float myFloatNum = 5.99;     // Floating point number
   char myLetter = 'D';         // Character
-  
+
   // Print variables
   printf("%d\n", myNum);
   printf("%f\n", myFloatNum);
