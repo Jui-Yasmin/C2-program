@@ -2,10 +2,11 @@
 #include <stdbool.h>  // Import the boolean header file
 
 int main() {
-  bool isProgrammingFun = false;
-  bool isFishTasty = true;
-  printf("%d\n", isProgrammingFun);  // Returns 1 (false)
-  printf("%d", isFishTasty);         // Returns 0 (true)
+  bool isProgrammingFun = true;
+  bool isFishTasty = false;
+  printf("%d\n", isProgrammingFun);  // Returns 1 (true)
+  printf("%d", isFishTasty);         // Returns 0 (false)
+
 
   return 0;
 }
