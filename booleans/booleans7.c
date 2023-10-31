@@ -2,7 +2,7 @@
 
 int main() {
   int myAge = 25;
-  int votingAge = 18;
+  int votingAge = 30;
 
   if (myAge >= votingAge) {
     printf("Old enough to vote!");
