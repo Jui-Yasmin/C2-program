@@ -2,7 +2,7 @@
 
 int main() {
   if (20 > 18) {
-    printf("20 is greater than 18");
+    printf("22 is greater than 18");
   }
   return 0;
 }
