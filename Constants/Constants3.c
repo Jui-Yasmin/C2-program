@@ -2,7 +2,7 @@
 
 int main() {
   const int minutesPerHour;
-  minutesPerHour = 60;
+  minutesPerHour = 70;
 
   printf("%d", minutesPerHour);
   return 0;
