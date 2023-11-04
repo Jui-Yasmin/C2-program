@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 int main() {
-  float x = 6;
-  x /= 3;
-  printf("%f", x);
+  int x = 50 - 9;
+  printf("%d", x);
   return 0;
 }
