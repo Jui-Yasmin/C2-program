@@ -1,13 +1,11 @@
 #include <stdio.h>
 
 int main() {
-  int i = 0;
+  int i;
 
-  do {
+  for (i = 0; i < 5; i++) {
     printf("%d\n", i);
-    i++;
   }
-  while (i <y 15);
 
   return 0;
 }
