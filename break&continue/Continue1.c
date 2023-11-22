@@ -3,8 +3,8 @@
 int main() {
   int i = 0;
 
-  while (i < 10) {
-    if (i == 6) {
+  while (i < 16) {
+    if (i == 30) {
       break;
     }
     printf("%d\n", i);
