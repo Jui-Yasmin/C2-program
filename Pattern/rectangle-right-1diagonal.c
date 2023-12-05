@@ -12,9 +12,9 @@ int main()
         {
             // inside inner loop print star for first and last rows or for first and last column
 
-            //  using i==j for diagonal
+            //   using j==n-i+1 for diagonal
 
-            if (i == 1 || i == n || j == 1 || j == n || i==j)
+            if (i == 1 || i == n || j == 1 || j == n || j==n-i+1)
                 printf("* ");
             else
                 printf("  ");
@@ -22,7 +22,5 @@ int main()
         printf("\n");
     }
 
-return 0;
+    return 0;
 }
-
-
