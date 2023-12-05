@@ -12,6 +12,8 @@ int main()
         {
             for (int j = 1; j <= columns; j++)
             {
+                // inside inner loop print star for first and last rows or for first and last column
+
                 if (i == 1 || i == rows || j == 1 || j == columns)
                     printf("* ");
                 else
