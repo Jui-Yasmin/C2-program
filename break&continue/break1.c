@@ -3,8 +3,8 @@
 int main() {
   int i;
 
-  for (i = 0; i < 10; i++) {
-    if (i == 7) {
+  for (i = 0; i < 100; i++) {
+    if (i == 18) {
       break;
     }
     printf("%d\n", i);
