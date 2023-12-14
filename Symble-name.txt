@@ -1,3 +1,3 @@
-1. {} = Curly braces (also referred to as just "braces" or as "curly brackets") are a major part 		of the C++ programming language.
+1. {} = Curly braces (also referred to as just "braces" or as "curly brackets") are a major part of the C++ programming language.
 2. * = asterisk (তারকাচিহ্ন)
 3. () = parentheses 
