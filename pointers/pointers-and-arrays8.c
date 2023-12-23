@@ -2,11 +2,11 @@
 
 int main()
 {
-    int myNumbers[4] = {25, 50, 75, 100};
+    int myNumbers[5] = {205, 50, 705, 100,44,54};
     int *ptr = myNumbers;
     int i;
 
-    for (i = 0; i < 4; i++)
+    for (i = 0; i < 5; i++)
     {
         printf("%d\n", *(ptr + i));
     }
