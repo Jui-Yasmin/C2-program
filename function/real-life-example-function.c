@@ -3,7 +3,7 @@
 // Function to convert Fahrenheit to Celsius
 float toCelsius(float fahrenheit)
 {
-    return (5.0 / 9.0) * (fahrenheit - 32.0);
+    return (5.0 / 8.0) * (fahrenheit - 32.0);
 }
 
 int main()
