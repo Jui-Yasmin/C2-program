@@ -3,6 +3,6 @@
 
 int main()
 {
-    printf("%f", pow(4, 3));
+    printf("%f", pow(12, 2));
     return 0;
 }
